@@ -55,7 +55,7 @@
             "Spe": 80
         },
         "tipos": [
-            "grass",
+            "Grass",
             "Veneno"
         ]
     },
@@ -129,7 +129,7 @@
         },
         "tipos": [
             "fire",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -143,7 +143,7 @@
             "Spe": 43
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -157,7 +157,7 @@
             "Spe": 58
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -171,7 +171,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -185,7 +185,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -348,7 +348,7 @@
         },
         "tipos": [
             "Normal",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -578,7 +578,7 @@
         },
         "tipos": [
             "ice",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -607,7 +607,7 @@
         },
         "tipos": [
             "ice",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -736,7 +736,7 @@
         },
         "tipos": [
             "fairy",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -987,7 +987,7 @@
         },
         "tipos": [
             "ground",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -1016,7 +1016,7 @@
         },
         "tipos": [
             "ground",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -1058,7 +1058,7 @@
             "Spe": 40
         },
         "tipos": [
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -1100,7 +1100,7 @@
             "Spe": 55
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1114,7 +1114,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1171,7 +1171,7 @@
         },
         "tipos": [
             "fire",
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -1200,7 +1200,7 @@
         },
         "tipos": [
             "fire",
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -1214,7 +1214,7 @@
             "Spe": 90
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1228,7 +1228,7 @@
             "Spe": 90
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1242,7 +1242,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Fighting"
         ]
     },
@@ -1400,7 +1400,7 @@
             "Spe": 70
         },
         "tipos": [
-            "grass",
+            "Grass",
             "Veneno"
         ]
     },
@@ -1415,7 +1415,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Poison"
         ]
     },
@@ -1430,7 +1430,7 @@
             "Spe": 100
         },
         "tipos": [
-            "water",
+            "Water",
             "Poison"
         ]
     },
@@ -1460,7 +1460,7 @@
             "Spe": 20
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "Eléctrico"
         ]
     },
@@ -1490,7 +1490,7 @@
             "Spe": 35
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "Eléctrico"
         ]
     },
@@ -1520,7 +1520,7 @@
             "Spe": 45
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "Eléctrico"
         ]
     },
@@ -1592,7 +1592,7 @@
             "Spe": 15
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -1621,7 +1621,7 @@
             "Spe": 30
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -1636,7 +1636,7 @@
             "Spe": 30
         },
         "tipos": [
-            "water",
+            "Water",
             "psychic"
         ]
     },
@@ -1697,7 +1697,7 @@
         },
         "tipos": [
             "Normal",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -1712,7 +1712,7 @@
         },
         "tipos": [
             "Normal",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -1756,7 +1756,7 @@
             "Spe": 45
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1770,7 +1770,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Ice"
         ]
     },
@@ -1843,7 +1843,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1857,7 +1857,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Ice"
         ]
     },
@@ -1917,7 +1917,7 @@
             "Spe": 130
         },
         "tipos": [
-            "Fantasma",
+            "Ghost",
             "Veneno"
         ]
     },
@@ -1975,7 +1975,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -1989,7 +1989,7 @@
             "Spe": 75
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2018,7 +2018,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "grass"
+            "Grass"
         ]
     },
     {
@@ -2047,7 +2047,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "grass"
+            "Grass"
         ]
     },
     {
@@ -2091,7 +2091,7 @@
             "Spe": 45
         },
         "tipos": [
-            "grass",
+            "Grass",
             "Dragón"
         ]
     },
@@ -2135,7 +2135,7 @@
         },
         "tipos": [
             "fire",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -2320,7 +2320,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2334,7 +2334,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2348,7 +2348,7 @@
             "Spe": 63
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2362,7 +2362,7 @@
             "Spe": 68
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2376,7 +2376,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2390,7 +2390,7 @@
             "Spe": 115
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -2405,7 +2405,7 @@
             "Spe": 120
         },
         "tipos": [
-            "water",
+            "Water",
             "psychic"
         ]
     },
@@ -2420,7 +2420,7 @@
             "Spe": 120
         },
         "tipos": [
-            "water",
+            "Water",
             "psychic"
         ]
     },
@@ -2538,7 +2538,7 @@
         },
         "tipos": [
             "bug",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -2596,7 +2596,7 @@
         },
         "tipos": [
             "fighting",
-            "water"
+            "Water"
         ]
     },
     {
@@ -2610,7 +2610,7 @@
             "Spe": 80
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2624,7 +2624,7 @@
             "Spe": 81
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -2639,7 +2639,7 @@
             "Spe": 81
         },
         "tipos": [
-            "water",
+            "Water",
             "dark"
         ]
     },
@@ -2654,7 +2654,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Ice"
         ]
     },
@@ -2711,7 +2711,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -2768,7 +2768,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -2783,7 +2783,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -2798,7 +2798,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -2813,7 +2813,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -2842,8 +2842,8 @@
             "Spe": 150
         },
         "tipos": [
-            "Roca",
-            "Volador"
+            "Rock",
+            "Flying"
         ]
     },
     {
@@ -2887,7 +2887,7 @@
         },
         "tipos": [
             "psychic",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -2917,7 +2917,7 @@
         },
         "tipos": [
             "fighting",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -2947,7 +2947,7 @@
         },
         "tipos": [
             "dark",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -3005,7 +3005,7 @@
         },
         "tipos": [
             "Dragón",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -3118,7 +3118,7 @@
             "Spe": 80
         },
         "tipos": [
-            "grass",
+            "Grass",
             "fairy"
         ]
     },
@@ -3176,7 +3176,7 @@
         },
         "tipos": [
             "fire",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -3190,7 +3190,7 @@
             "Spe": 43
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -3204,7 +3204,7 @@
             "Spe": 58
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -3218,7 +3218,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -3232,7 +3232,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragón"
         ]
     },
@@ -3380,7 +3380,7 @@
             "Spe": 67
         },
         "tipos": [
-            "water",
+            "Water",
             "Electric"
         ]
     },
@@ -3395,7 +3395,7 @@
             "Spe": 67
         },
         "tipos": [
-            "water",
+            "Water",
             "Electric"
         ]
     },
@@ -3583,7 +3583,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water",
+            "Water",
             "Fairy"
         ]
     },
@@ -3598,7 +3598,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water",
+            "Water",
             "Fairy"
         ]
     },
@@ -3627,7 +3627,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -3743,7 +3743,7 @@
             "Spe": 15
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -3758,7 +3758,7 @@
             "Spe": 15
         },
         "tipos": [
-            "water",
+            "Water",
             "ground"
         ]
     },
@@ -3773,7 +3773,7 @@
             "Spe": 35
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -3831,7 +3831,7 @@
             "Spe": 30
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -3991,7 +3991,7 @@
             "Spe": 30
         },
         "tipos": [
-            "steel",
+            "Steel",
             "ground"
         ]
     },
@@ -4034,7 +4034,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "Poison"
         ]
     },
@@ -4080,7 +4080,7 @@
         },
         "tipos": [
             "bug",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -4256,7 +4256,7 @@
             "Spe": 35
         },
         "tipos": [
-            "water",
+            "Water",
             "Rock"
         ]
     },
@@ -4271,7 +4271,7 @@
             "Spe": 30
         },
         "tipos": [
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -4285,7 +4285,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -4299,7 +4299,7 @@
             "Spe": 45
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -4328,7 +4328,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -4358,8 +4358,8 @@
             "Spe": 110
         },
         "tipos": [
-            "steel",
-            "Volador"
+            "Steel",
+            "Flying"
         ]
     },
     {
@@ -4418,7 +4418,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragon"
         ]
     },
@@ -4630,7 +4630,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -4689,7 +4689,7 @@
             "Spe": 71
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "dark"
         ]
     },
@@ -4791,7 +4791,7 @@
             "Spe": 145
         },
         "tipos": [
-            "grass",
+            "Grass",
             "Dragón"
         ]
     },
@@ -4865,7 +4865,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -4879,7 +4879,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -4894,7 +4894,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -4909,7 +4909,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "ground"
         ]
     },
@@ -5082,7 +5082,7 @@
             "Spe": 30
         },
         "tipos": [
-            "water",
+            "Water",
             "Grass"
         ]
     },
@@ -5097,7 +5097,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water",
+            "Water",
             "Grass"
         ]
     },
@@ -5112,7 +5112,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Grass"
         ]
     },
@@ -5201,7 +5201,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -5216,7 +5216,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -5292,7 +5292,7 @@
         },
         "tipos": [
             "Bug",
-            "water"
+            "Water"
         ]
     },
     {
@@ -5580,7 +5580,7 @@
         },
         "tipos": [
             "dark",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -5609,7 +5609,7 @@
             "Spe": 50
         },
         "tipos": [
-            "steel",
+            "Steel",
             "fairy"
         ]
     },
@@ -5624,7 +5624,7 @@
             "Spe": 50
         },
         "tipos": [
-            "steel",
+            "Steel",
             "fairy"
         ]
     },
@@ -5684,7 +5684,7 @@
             "Spe": 50
         },
         "tipos": [
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -5929,7 +5929,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water",
+            "Water",
             "Dark"
         ]
     },
@@ -5944,7 +5944,7 @@
             "Spe": 95
         },
         "tipos": [
-            "water",
+            "Water",
             "Dark"
         ]
     },
@@ -5959,7 +5959,7 @@
             "Spe": 105
         },
         "tipos": [
-            "water",
+            "Water",
             "dark"
         ]
     },
@@ -5974,7 +5974,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -5988,7 +5988,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6279,7 +6279,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -6294,7 +6294,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -6309,7 +6309,7 @@
             "Spe": 35
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6323,7 +6323,7 @@
             "Spe": 55
         },
         "tipos": [
-            "water",
+            "Water",
             "Dark"
         ]
     },
@@ -6428,7 +6428,7 @@
             "Spe": 80
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6442,7 +6442,7 @@
             "Spe": 81
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6512,7 +6512,7 @@
             "Spe": 75
         },
         "tipos": [
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -6584,7 +6584,7 @@
         },
         "tipos": [
             "psychic",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -6697,7 +6697,7 @@
         },
         "tipos": [
             "Ice",
-            "water"
+            "Water"
         ]
     },
     {
@@ -6712,7 +6712,7 @@
         },
         "tipos": [
             "Ice",
-            "water"
+            "Water"
         ]
     },
     {
@@ -6727,7 +6727,7 @@
         },
         "tipos": [
             "Ice",
-            "water"
+            "Water"
         ]
     },
     {
@@ -6741,7 +6741,7 @@
             "Spe": 32
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6755,7 +6755,7 @@
             "Spe": 52
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6769,7 +6769,7 @@
             "Spe": 52
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6783,7 +6783,7 @@
             "Spe": 55
         },
         "tipos": [
-            "water",
+            "Water",
             "Rock"
         ]
     },
@@ -6798,7 +6798,7 @@
             "Spe": 97
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -6856,7 +6856,7 @@
         },
         "tipos": [
             "Dragón",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -6915,7 +6915,7 @@
             "Spe": 110
         },
         "tipos": [
-            "steel",
+            "Steel",
             "psychic"
         ]
     },
@@ -6948,7 +6948,7 @@
         ]
     },
     {
-        "nombre": "Registeel",
+        "nombre": "RegiSteel",
         "stats": {
             "HP": 80,
             "Atk": 75,
@@ -7032,7 +7032,7 @@
             "Spe": 90
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7046,7 +7046,7 @@
             "Spe": 90
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7104,7 +7104,7 @@
         },
         "tipos": [
             "Dragón",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -7276,7 +7276,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7290,7 +7290,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7304,7 +7304,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Steel"
         ]
     },
@@ -7365,7 +7365,7 @@
         },
         "tipos": [
             "fighting",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -7394,7 +7394,7 @@
         },
         "tipos": [
             "Normal",
-            "water"
+            "Water"
         ]
     },
     {
@@ -7581,7 +7581,7 @@
         },
         "tipos": [
             "bug",
-            "grass"
+            "Grass"
         ]
     },
     {
@@ -7611,7 +7611,7 @@
         },
         "tipos": [
             "bug",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -7684,7 +7684,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7698,7 +7698,7 @@
             "Spe": 115
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7740,7 +7740,7 @@
             "Spe": 34
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -7754,7 +7754,7 @@
             "Spe": 39
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -8179,7 +8179,7 @@
         },
         "tipos": [
             "fighting",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -8194,7 +8194,7 @@
         },
         "tipos": [
             "fighting",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -8310,7 +8310,7 @@
             "Spe": 66
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -8324,7 +8324,7 @@
             "Spe": 91
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -8338,7 +8338,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -8383,7 +8383,7 @@
             "Spe": 30
         },
         "tipos": [
-            "grass",
+            "Grass",
             "ice"
         ]
     },
@@ -8676,7 +8676,7 @@
         },
         "tipos": [
             "ice",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8691,7 +8691,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8706,7 +8706,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8721,7 +8721,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8736,7 +8736,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8751,7 +8751,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8766,7 +8766,7 @@
         },
         "tipos": [
             "Eléctrico",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -8837,7 +8837,7 @@
             "Spe": 90
         },
         "tipos": [
-            "steel",
+            "Steel",
             "Dragón"
         ]
     },
@@ -8852,7 +8852,7 @@
             "Spe": 100
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragon"
         ]
     },
@@ -8867,7 +8867,7 @@
             "Spe": 120
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragón"
         ]
     },
@@ -8898,7 +8898,7 @@
         },
         "tipos": [
             "fire",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -8970,7 +8970,7 @@
             "Spe": 80
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -8984,7 +8984,7 @@
             "Spe": 100
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9186,7 +9186,7 @@
             "Spe": 45
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9200,7 +9200,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9214,7 +9214,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9228,7 +9228,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "dark"
         ]
     },
@@ -9397,7 +9397,7 @@
             "Spe": 64
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9411,7 +9411,7 @@
             "Spe": 101
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9628,7 +9628,7 @@
         },
         "tipos": [
             "ground",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -9713,7 +9713,7 @@
             "Spe": 64
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -9727,7 +9727,7 @@
             "Spe": 69
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -9742,7 +9742,7 @@
             "Spe": 74
         },
         "tipos": [
-            "water",
+            "Water",
             "Ground"
         ]
     },
@@ -9948,7 +9948,7 @@
             "Spe": 105
         },
         "tipos": [
-            "grass",
+            "Grass",
             "fighting"
         ]
     },
@@ -9963,7 +9963,7 @@
             "Spe": 98
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -10050,7 +10050,7 @@
             "Spe": 95
         },
         "tipos": [
-            "Desconocido"
+            "Fire"
         ]
     },
     {
@@ -10064,8 +10064,8 @@
             "Spe": 55
         },
         "tipos": [
-            "Desconocido"
-        ]
+            "Fire",
+            "Psychic"]
     },
     {
         "nombre": "Darmanitan Galarian FormStandard Mode",
@@ -10078,7 +10078,7 @@
             "Spe": 95
         },
         "tipos": [
-            "Desconocido"
+            "Ice"
         ]
     },
     {
@@ -10092,7 +10092,8 @@
             "Spe": 135
         },
         "tipos": [
-            "Desconocido"
+            "Ice",
+            "Fire"
         ]
     },
     {
@@ -10225,7 +10226,7 @@
         },
         "tipos": [
             "ground",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -10253,7 +10254,7 @@
             "Spe": 22
         },
         "tipos": [
-            "water",
+            "Water",
             "Rock"
         ]
     },
@@ -10268,7 +10269,7 @@
             "Spe": 32
         },
         "tipos": [
-            "water",
+            "Water",
             "Rock"
         ]
     },
@@ -10356,7 +10357,7 @@
         },
         "tipos": [
             "Normal",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -10385,7 +10386,7 @@
         },
         "tipos": [
             "Normal",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -10511,7 +10512,7 @@
             "Spe": 55
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -10526,7 +10527,7 @@
             "Spe": 98
         },
         "tipos": [
-            "water",
+            "Water",
             "Flying"
         ]
     },
@@ -10688,7 +10689,7 @@
         },
         "tipos": [
             "Ghost",
-            "water" 
+            "Water" 
         ]
     },
     {
@@ -10703,7 +10704,7 @@
         },
         "tipos": [
             "Ghost",
-            "water"
+            "Water"
         ]
     },
     {
@@ -10717,7 +10718,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -10962,7 +10963,7 @@
             "Spe": 90
         },
         "tipos": [
-            "Fantasma",
+            "Ghost",
             "fire"
         ]
     },
@@ -11105,7 +11106,7 @@
         },
         "tipos": [
             "ground",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -11192,7 +11193,7 @@
         },
         "tipos": [
             "ground",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -11281,7 +11282,7 @@
         },
         "tipos": [
             "psychic",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -11740,7 +11741,7 @@
             "Spe": 44
         },
         "tipos": [
-            "grass",
+            "Grass",
             "fighting"
         ]
     },
@@ -11813,7 +11814,7 @@
             "Spe": 71
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -11827,7 +11828,7 @@
             "Spe": 97
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -11841,7 +11842,7 @@
             "Spe": 122
         },
         "tipos": [
-            "water",
+            "Water",
             "Dark"
         ]
     },
@@ -11856,7 +11857,7 @@
             "Spe": 132
         },
         "tipos": [
-            "water",
+            "Water",
             "dark"
         ]
     },
@@ -11871,7 +11872,7 @@
             "Spe": 142
         },
         "tipos": [
-            "water",
+            "Water",
             "dark"
         ]
     },
@@ -12392,7 +12393,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -12407,7 +12408,7 @@
         },
         "tipos": [
             "Rock",
-            "water"
+            "Water"
         ]
     },
     {
@@ -12421,7 +12422,7 @@
             "Spe": 88
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "fighting"
         ]
     },
@@ -12437,7 +12438,7 @@
         },
         "tipos": [
             "Poison",
-            "water"
+            "Water"
         ]
     },
     {
@@ -12481,7 +12482,7 @@
             "Spe": 44
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -12495,7 +12496,7 @@
             "Spe": 59
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -12629,7 +12630,7 @@
         },
         "tipos": [
             "fighting",
-            "Volador"
+            "Flying"
         ]
     },
     {
@@ -12701,7 +12702,7 @@
             "Spe": 40
         },
         "tipos": [
-            "steel",
+            "Steel",
             "Dragón"
         ]
     },
@@ -12730,7 +12731,7 @@
             "Spe": 60
         },
         "tipos": [
-            "steel",
+            "Steel",
             "Dragón"
         ]
     },
@@ -12790,8 +12791,8 @@
             "Spe": 56
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12805,7 +12806,8 @@
             "Spe": 51
         },
         "tipos": [
-            "Desconocido"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12819,8 +12821,8 @@
             "Spe": 46
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12848,8 +12850,8 @@
             "Spe": 99
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12863,8 +12865,8 @@
             "Spe": 84
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12878,8 +12880,8 @@
             "Spe": 69
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12893,8 +12895,8 @@
             "Spe": 54
         },
         "tipos": [
-            "Fantasma",
-            "grass"
+            "Ghost",
+            "Grass"
         ]
     },
     {
@@ -12937,7 +12939,7 @@
         },
         "tipos": [
             "ice",
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -13085,7 +13087,7 @@
             "Spe": 110
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "fairy"
         ]
     },
@@ -13101,7 +13103,7 @@
         },
         "tipos": [
             "psychic",
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -13131,7 +13133,7 @@
         },
         "tipos": [
             "Fire",
-            "water"
+            "Water"
         ]
     },
     {
@@ -13190,7 +13192,7 @@
             "Spe": 60
         },
         "tipos": [
-            "grass",
+            "Grass",
             "fighting"
         ]
     },
@@ -13248,7 +13250,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -13262,7 +13264,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -13276,7 +13278,7 @@
             "Spe": 60
         },
         "tipos": [
-            "water",
+            "Water",
             "Fairy"
         ]
     },
@@ -13452,7 +13454,7 @@
             "Spe": 93
         },
         "tipos": [
-            "Desconocido"
+            "Flying"
         ]
     },
     {
@@ -13510,7 +13512,7 @@
             "Spe": 112
         },
         "tipos": [
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -13524,7 +13526,7 @@
             "Spe": 82
         },
         "tipos": [
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -13538,7 +13540,7 @@
             "Spe": 110
         },
         "tipos": [
-            "Roca"
+            "Rock"
         ]
     },
     {
@@ -13552,7 +13554,7 @@
             "Spe": 40
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -13566,7 +13568,7 @@
             "Spe": 30
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -13581,7 +13583,7 @@
         },
         "tipos": [
             "Poison",
-            "water"
+            "Water"
         ]
     },
     {
@@ -13596,7 +13598,7 @@
         },
         "tipos": [
             "Poison",
-            "water"
+            "Water"
         ]
     },
     {
@@ -13638,7 +13640,7 @@
             "Spe": 27
         },
         "tipos": [
-            "water",
+            "Water",
             "Bug"
         ]
     },
@@ -13653,7 +13655,7 @@
             "Spe": 42
         },
         "tipos": [
-            "water",
+            "Water",
             "Bug"
         ]
     },
@@ -13872,7 +13874,7 @@
         },
         "tipos": [
             "Bug",
-            "water"
+            "Water"
         ]
     },
     {
@@ -13887,7 +13889,7 @@
         },
         "tipos": [
             "Bug",
-            "water"
+            "Water"
         ]
     },
     {
@@ -13902,7 +13904,7 @@
         },
         "tipos": [
             "bug",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -13946,7 +13948,7 @@
             "Spe": 5
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -13988,7 +13990,8 @@
             "Spe": 60
         },
         "tipos": [
-            "Desconocido"
+            "Rock",
+            "Flying" 
         ]
     },
     {
@@ -14002,8 +14005,8 @@
             "Spe": 120
         },
         "tipos": [
-            "Roca",
-            "Volador"
+            "Rock",
+            "Flying"
         ]
     },
     {
@@ -14061,7 +14064,8 @@
             "Spe": 96
         },
         "tipos": [
-            "Desconocido"
+            "Ghost",
+            "Fairy"
         ]
     },
     {
@@ -14075,7 +14079,7 @@
             "Spe": 92
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -14224,7 +14228,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "Fairy"
         ]
     },
@@ -14346,7 +14350,7 @@
         ]
     },
     {
-        "nombre": "Celesteela",
+        "nombre": "CeleSteela",
         "stats": {
             "HP": 97,
             "Atk": 101,
@@ -14472,7 +14476,7 @@
             "Spe": 95
         },
         "tipos": [
-            "steel",
+            "Steel",
             "fairy"
         ]
     },
@@ -14701,7 +14705,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -14715,7 +14719,7 @@
             "Spe": 90
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -14729,7 +14733,7 @@
             "Spe": 120
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -14942,7 +14946,7 @@
             "Spe": 44
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -14956,7 +14960,7 @@
             "Spe": 74
         },
         "tipos": [
-            "water",
+            "Water",
             "Rock"
         ]
     },
@@ -15117,7 +15121,7 @@
         },
         "tipos": [
             "Flying",
-            "water"
+            "Water"
         ]
     },
     {
@@ -15131,7 +15135,7 @@
             "Spe": 66
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -15145,7 +15149,7 @@
             "Spe": 136
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -15174,7 +15178,8 @@
             "Spe": 75
         },
         "tipos": [
-            "Desconocido"
+            "Poison",
+            "Electric"
         ]
     },
     {
@@ -15563,7 +15568,7 @@
             "Spe": 50
         },
         "tipos": [
-            "Desconocido"
+            "Ice"
         ]
     },
     {
@@ -15577,7 +15582,7 @@
             "Spe": 130
         },
         "tipos": [
-            "Desconocido"
+            "Ice"
         ]
     },
     {
@@ -15621,7 +15626,8 @@
             "Spe": 97
         },
         "tipos": [
-            "Desconocido"
+            "Electric",
+            "Dark"
         ]
     },
     {
@@ -15693,7 +15699,7 @@
             "Spe": 75
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragon"
         ]
     },
@@ -15708,7 +15714,7 @@
             "Spe": 55
         },
         "tipos": [
-            "water",
+            "Water",
             "Ice"
         ]
     },
@@ -15798,7 +15804,7 @@
         },
         "tipos": [
             "fairy",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -15827,7 +15833,7 @@
         },
         "tipos": [
             "fighting",
-            "steel"
+            "Steel"
         ]
     },
     {
@@ -15875,7 +15881,7 @@
         ]
     },
     {
-        "nombre": "Urshifu",
+        "nombre": "Urshifu-Rapid-Strike",
         "stats": {
             "HP": 100,
             "Atk": 130,
@@ -15885,7 +15891,23 @@
             "Spe": 97
         },
         "tipos": [
-            "Desconocido"
+            "Fighting",
+            "Water"
+        ]
+    },
+        {
+        "nombre": "Urshifu-Single-Strike",
+        "stats": {
+            "HP": 100,
+            "Atk": 130,
+            "Def": 100,
+            "SpA": 63,
+            "SpD": 60,
+            "Spe": 97
+        },
+        "tipos": [
+            "Fighting",
+            "Dark"
         ]
     },
     {
@@ -15986,7 +16008,7 @@
         },
         "tipos": [
             "psychic",
-            "grass"
+            "Grass"
         ]
     },
     {
@@ -16001,7 +16023,7 @@
         },
         "tipos": [
             "psychic",
-            "grass"
+            "Grass"
         ]
     },
     {
@@ -16075,7 +16097,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water",
+            "Water",
             "Ghost"
         ]
     },
@@ -16090,7 +16112,7 @@
             "Spe": 78
         },
         "tipos": [
-            "water",
+            "Water",
             "Ghost"
         ]
     },
@@ -16135,7 +16157,8 @@
             "Spe": 106
         },
         "tipos": [
-            "Desconocido"
+            "Fairy",
+            "Flying"
         ]
     },
     {
@@ -16149,7 +16172,8 @@
             "Spe": 46
         },
         "tipos": [
-            "Desconocido"
+            "Fairy",
+            "Flying"
         ]
     },
     {
@@ -16210,7 +16234,7 @@
         ]
     },
     {
-        "nombre": "Crocalor",
+        "nombre": "CRocklor",
         "stats": {
             "HP": 81,
             "Atk": 55,
@@ -16249,7 +16273,7 @@
             "Spe": 50
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -16263,7 +16287,7 @@
             "Spe": 65
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -16277,7 +16301,7 @@
             "Spe": 85
         },
         "tipos": [
-            "water",
+            "Water",
             "Fighting"
         ]
     },
@@ -16449,7 +16473,7 @@
             "Spe": 111
         },
         "tipos": [
-            "Desconocido"
+            "Normal"
         ]
     },
     {
@@ -16536,7 +16560,8 @@
             "Spe": 92
         },
         "tipos": [
-            "Desconocido"
+            "Normal",
+            "Flying"
         ]
     },
     {
@@ -16855,7 +16880,7 @@
             "Spe": 75
         },
         "tipos": [
-            "grass",
+            "Grass",
             "fire"
         ]
     },
@@ -16972,7 +16997,7 @@
             "Spe": 95
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -16986,7 +17011,7 @@
             "Spe": 120
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -17015,7 +17040,7 @@
             "Spe": 75
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -17029,7 +17054,7 @@
             "Spe": 100
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -17043,7 +17068,7 @@
             "Spe": 100
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -17146,7 +17171,7 @@
             "Spe": 101
         },
         "tipos": [
-            "Roca",
+            "Rock",
             "Veneno"
         ]
     },
@@ -17232,7 +17257,7 @@
             "Spe": 70
         },
         "tipos": [
-            "water",
+            "Water",
             "Psychic"
         ]
     },
@@ -17247,7 +17272,7 @@
             "Spe": 35
         },
         "tipos": [
-            "water"
+            "Water"
         ]
     },
     {
@@ -17261,7 +17286,8 @@
             "Spe": 82
         },
         "tipos": [
-            "Desconocido"
+            "Dragon",
+            "Water"
         ]
     },
     {
@@ -17275,7 +17301,8 @@
             "Spe": 92
         },
         "tipos": [
-            "Desconocido"
+            "Dragon",
+            "Water"
         ]
     },
     {
@@ -17334,7 +17361,7 @@
             "Spe": 55
         },
         "tipos": [
-            "Desconocido"
+            "Normal"
         ]
     },
     {
@@ -17469,7 +17496,7 @@
         },
         "tipos": [
             "Ice",
-            "water"
+            "Water"
         ]
     },
     {
@@ -17603,7 +17630,7 @@
             "Spe": 10
         },
         "tipos": [
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -17617,7 +17644,7 @@
             "Spe": 80
         },
         "tipos": [
-            "Fantasma"
+            "Ghost"
         ]
     },
     {
@@ -17766,7 +17793,7 @@
             "Spe": 109
         },
         "tipos": [
-            "water",
+            "Water",
             "Dragon"
         ]
     },
