@@ -1,1 +1,263 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Champions - AI Strategy Engine</title>
+    <style>
+        /* Estilos globales limpios y compatibles con cualquier navegador */
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+            background-color: #060b16; /* Fondo azul oscuro */
+            color: #f0f3f8; /* Texto claro */
+            line-height: 1.6;
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
+        /* CABECERA */
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .logo-container {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 10px;
+        }
+
+        /* Pokéball Minimalista en CSS Puro */
+        .pixel-pokeball {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(to bottom, #ff3e3e 45%, #000000 45%, #000000 55%, #ffffff 55%);
+            border: 3px solid #000000;
+            border-radius: 50%;
+            position: relative;
+            box-shadow: 0 0 15px rgba(255, 62, 62, 0.4);
+        }
+        .pixel-pokeball::after {
+            content: '';
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: #ffffff;
+            border: 3px solid #000000;
+            border-radius: 50%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 900;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #ff3e3e;
+            background: linear-gradient(135deg, #ff3e3e, #00bfff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: #8da2bb;
+            font-size: 1.15rem;
+            max-width: 600px;
+            margin: 15px auto 0 auto;
+            font-weight: 500;
+        }
+
+        /* ARENA PRINCIPAL (TARJETA NOTEBOOKLM) */
+        .arena-box {
+            background-color: #0d1527; /* Azul tarjeta */
+            border: 2px solid #1e2d4a;
+            border-radius: 20px;
+            padding: 40px 30px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            position: relative;
+            margin-bottom: 40px;
+        }
+
+        /* Línea tricolor en el borde superior de la tarjeta */
+        .arena-box::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(to right, #ff3e3e, #ffd700, #00bfff);
+            border-radius: 20px 20px 0 0;
+        }
+
+        .arena-box h2 {
+            font-size: 1.8rem;
+            color: #ffd700; /* Amarillo */
+            margin-top: 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+        }
+
+        .arena-box p {
+            color: #cbd5e1;
+            font-size: 1.1rem;
+            max-width: 550px;
+            margin: 15px auto 25px auto;
+        }
+
+        /* BOTÓN DE ENTRADA A LA ARENA */
+        .btn-battle {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: linear-gradient(135deg, #ff3e3e, #e60000);
+            color: #ffffff;
+            padding: 18px 40px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 800;
+            font-size: 1.3rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 0 25px rgba(255, 62, 62, 0.4);
+            border: 2px solid #000000;
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+            margin-bottom: 10px;
+        }
+
+        .btn-battle:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 0 35px rgba(255, 62, 62, 0.7);
+        }
+
+        /* CAJA DE OPTIMIZACIÓN DE CONSULTAS */
+        .tips-box {
+            margin-top: 35px;
+            padding: 20px;
+            background: rgba(255, 215, 0, 0.04);
+            border: 1px dashed rgba(255, 215, 0, 0.3);
+            border-radius: 12px;
+            text-align: left;
+        }
+
+        .tips-box h4 {
+            margin: 0 0 10px 0;
+            color: #ffd700;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .tips-box p {
+            margin: 0;
+            color: #cbd5e1;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        /* SECCIÓN REPOSITORIO DE DATOS */
+        .download-box {
+            background-color: rgba(13, 21, 39, 0.5);
+            border: 1px solid #1e2d4a;
+            border-radius: 15px;
+            padding: 30px 25px;
+            text-align: center;
+        }
+
+        .download-box h3 {
+            color: #00bfff;
+            margin-top: 0;
+            font-size: 1.25rem;
+            text-transform: uppercase;
+        }
+
+        .download-box p {
+            font-size: 0.95rem;
+            color: #8da2bb;
+            margin-bottom: 20px;
+        }
+
+        .btn-download {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: transparent;
+            color: #00bfff;
+            border: 2px solid #00bfff;
+            padding: 10px 24px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 0.95rem;
+            transition: background-color 0.2s, color 0.2s;
+        }
+
+        .btn-download:hover {
+            background-color: #00bfff;
+            color: #060b16;
+        }
+
+        /* PIE DE PÁGINA */
+        footer {
+            margin-top: 60px;
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px dashed #1e2d4a;
+            color: #8da2bb;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <div class="pixel-pokeball"></div>
+            <h1>Pokémon Champions</h1>
+            <div class="pixel-pokeball"></div>
+        </div>
+        <p class="subtitle">La base de datos de VGC definitiva procesada por IA para análisis tácticos y cálculos exactos a Nivel 50 en tiempo real.</p>
+    </header>
+
+    <main>
+        <div class="arena-box">
+            <h2>⚔️ ¡Entra al Estadio de Consulta! ⚔️</h2>
+            <p>Accede inmediatamente a nuestro entorno oficial pre-cargado de NotebookLM. Haz preguntas sobre counters, sinergias de equipo, sets de movimientos y cálculos exactos de daño.</p>
+            
+            <a href="https://notebooklm.google.com/notebook/166e0183-046e-4ff0-919f-909a63a6d3f2" target="_blank" class="btn-battle">
+                ⚡ Entrar a la Arena (NotebookLM)
+            </a>
+
+            <div class="tips-box">
+                <h4>💡 Tip de Campeón: Optimiza tus consultas</h4>
+                <p>
+                    La versión gratuita de NotebookLM tiene un límite de <strong>50 consultas diarias</strong>. Para no agotarlas, 
+                    <strong>no preguntes de una en una</strong>. En un solo mensaje, pídele que te analice varios escenarios a la vez. 
+                    <br><br>
+                    <em>Ejemplo de consulta optimizada:</em><br>
+                    <span style="color: #00bfff; font-family: monospace;">"Dame 3 ejemplos de spreads defensivos para Incineroar que aseguren sobrevivir a un Terremoto de Landorus-T, qué daño le hace de vuelta con Envite Ígneo a un Amoonguss bulky, y recomiéndame un matchup favorable contra esta dupla."</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="download-box">
+            <h3>📦 Repositorio de Datos y Configuración Original</h3>
+            <p>¿Quieres clonar el proyecto, revisar los archivos fuentes en Markdown (.md) o reportar algún error? Accede a nuestro repositorio oficial:</p>
+            <a href="https://github.com/ffarias92/PokeAI" target="_blank" class="btn-download">
+                🔗 Ver Repositorio en GitHub
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Pokémon Champions AI Strategy Engine • Powered by NotebookLM</p>
+    </footer>
+
+</body>
+</html>
